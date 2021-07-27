@@ -1,0 +1,27 @@
+(1) HEC-RAS 2D cells(.shp)
+(2) WASP segments(.shp)
+(3) HEC-RAS 2D output (.hdf)" 
+(4) HEC-RAS 2D Postprocessing output (.hdf)
+(5) Folder for external coupler outputs
+(6) HEC-RAS 2D downstream boundary name (this can be found by in RAS Mapper\Geometries\Boundaries)
+(7) Minimum volume for dry segments (unit should be same as HEC-RAS 2D output)
+(8) Extra volume threshold for wet/dry segments (unit should be same as HEC-RAS 2D output)
+(9) Number of layers (1= include surface water , 2= include surface water and surface sediment layer)
+(10)Initial depth for surface sediment layer (this will be used if the number of layers= 2)
+(11)Timestep (seconds) for HEC-RAS 2D Hydrodynamic data output
+(12)Hydrodyanmic simulation start date(Year, Month, Day, Hour, Minute, and Second e.g.: 2020,9,1,0,0,0")
+(13)External coupler Hydrodynamic output name
+########################################################
+D:\External Coupler\Example\Shapefiles\HECRAS2D.shp 	    
+D:\External Coupler\Example\Shapefiles\WASP.shp                  	                       	    
+D:\External Coupler\Example\Woodbridge.p01.hdf                              	    
+D:\External Coupler\Example\Plan 01\Postprocessing.hdf
+D:\External Coupler\Example\Output
+Outlet                	    
+706
+0
+2                    	    
+0.5          	   
+60                              	    
+2020,9,1,0,0,0
+Hydrodynamic
