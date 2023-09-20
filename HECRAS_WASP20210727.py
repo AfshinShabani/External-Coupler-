@@ -3,10 +3,10 @@
 Created on Mon Aug 17 11:58:31 2020
 
 @author: afshin shabani
-contact: shabani.afshin@epa.gov
+contact: afshin.shabani64@gamil.com
 
-# The External Coupler program is develop to link HEC-RAS 2D and WASP. The program will link two models using a configuration text file.
-The excutable version of the program for Windows opertion systme is alos availabel.For program, user guide, and tutorials please contact me directly. 
+# The External Coupler program is developed to link HEC-RAS 2D and WASP. The program links two models using a configuration text file.
+The excutable version of the program for Windows opertion systme is also availabel.For executable program, user guide, and tutorials please contact afshin.shabani64@gamil.com. 
 """
 
 import os
